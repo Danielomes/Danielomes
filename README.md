@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://personafication.files.wordpress.com/2018/08/tumblr_oxa8kamy131w63t8do3_1280.gif?w=474" alt="GIF Sobre Mim" height="200px" style="margin-right: 20px; border-radius: 5px;">
+  <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://personafication.files.wordpress.com/2018/08/tumblr_oxa8kamy131w63t8do3_1280.gif?w=474">
   
   ## Sobre Mim
 
