@@ -1,9 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://personafication.files.wordpress.com/2018/08/tumblr_oxa8kamy131w63t8do3_1280.gif?w=474">
+  
   
   ## Sobre Mim
-
+<img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://personafication.files.wordpress.com/2018/08/tumblr_oxa8kamy131w63t8do3_1280.gif?w=474">
   Olá! Eu sou Daniel Rosa, um estudante do terceiro ano do Ensino Médio no SENAI, focado em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e WordPress.
+  
 
   ### Tecnologias e Habilidades
 
