@@ -8,7 +8,7 @@
 
   ### Tecnologias e Habilidades
 
-  - **Front-end:** HTML, CSS, JavaScript, React, React Native
+  - **Front-end:** [HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), CSS, JavaScript, React, React Native
   - **Back-end:** MySQL, Firebase
   - **CMS:** WordPress
 
